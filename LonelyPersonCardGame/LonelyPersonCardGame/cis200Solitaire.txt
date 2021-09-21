@@ -1,0 +1,49 @@
+Getting 3 cards from the deck
+Putting AS into the sorted Spade Pile
+Putting AH into the sorted Heart Pile
+Getting 3 cards from the deck
+Getting 3 cards from the deck
+Placing 2D and any other cards on top of it into column 3
+Getting 3 cards from the deck
+Placing 3D and any other cards on top of it into column 4
+Getting 3 cards from the deck
+Placing 10S and any other cards on top of it into column 2
+Getting 3 cards from the deck
+Getting 3 cards from the deck
+Putting AD into the sorted Diamond Pile
+Putting 2D into the sorted Diamond Pile
+Getting 3 cards from the deck
+Placing 6S and any other cards on top of it into column 7
+There are no more cards in the deck
+Putting cards in discard pile back into deck
+Number of Flips: 1
+Getting 3 cards from the deck
+Getting 3 cards from the deck
+Getting 3 cards from the deck
+Getting 3 cards from the deck
+Placing 10H and any other cards on top of it into column 6
+Placing 9D and any other cards on top of it into column 2
+Getting 3 cards from the deck
+Getting 3 cards from the deck
+Placing 5H and any other cards on top of it into column 7
+Getting 2 cards from the deck
+There are no more cards in the deck
+Putting cards in discard pile back into deck
+Number of Flips: 2
+Getting 3 cards from the deck
+Getting 3 cards from the deck
+Getting 3 cards from the deck
+Placing KH and any other cards on top of it into column 1
+Placing QC and any other cards on top of it into column 1
+Placing JD and any other cards on top of it into column 1
+Placing KD and any other cards on top of it into column 2
+Getting 3 cards from the deck
+Putting 2S into the sorted Spade Pile
+Getting 3 cards from the deck
+Getting 3 cards from the deck
+Placing 4S and any other cards on top of it into column 7
+There are no more cards in the deck
+Putting cards in discard pile back into deck
+Number of Flips: 3
+You lost
+Points: 50
